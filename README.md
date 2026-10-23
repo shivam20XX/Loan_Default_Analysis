@@ -23,7 +23,7 @@ This page provides an overview of loan amounts and default rates.
 
 <!-- Add your first dashboard screenshot here -->
 
-![Loan Default & Overview](images/loan-default-overview.png)
+![Loan Default & Overview](loan-default-overview.png)
 
 ### 2. Applicant Demographics & Financial Profile
 
@@ -40,7 +40,7 @@ This page analyzes loan amounts based on applicant demographics and financial ch
 
 <!-- Add your second dashboard screenshot here -->
 
-![Applicant Demographics & Financial Profile](images/applicant-demographics.png)
+![Applicant Demographics & Financial Profile](applicant-demographics.png)
 
 ### 3. Financial Risk Metrics
 
@@ -56,7 +56,7 @@ This page focuses on yearly changes in loan amounts and defaults, along with loa
 
 <!-- Add your third dashboard screenshot here -->
 
-![Financial Risk Metrics](images/financial-risk-metrics.png)
+![Financial Risk Metrics](financial-risk-metrics.png)
 
 ## DAX Formulas Used
 
