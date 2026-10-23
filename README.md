@@ -19,9 +19,6 @@ This page provides an overview of loan amounts and default rates.
 - Average Loan Amount by Age Group
 - Default Rate (%) by Year
 
-**Dashboard Screenshot**
-
-<!-- Add your first dashboard screenshot here -->
 
 ![Loan Default & Overview](loan-default-overview.png)
 
@@ -36,9 +33,7 @@ This page analyzes loan amounts based on applicant demographics and financial ch
 - Loan Amount for Middle Age Adults by Mortgage/Dependents
 - Number of Loans by Education Type
 
-**Dashboard Screenshot**
 
-<!-- Add your second dashboard screenshot here -->
 
 ![Applicant Demographics & Financial Profile](applicant-demographics.png)
 
@@ -52,9 +47,7 @@ This page focuses on yearly changes in loan amounts and defaults, along with loa
 - YTD Loan Amount by Credit Score Bins and Marital Status
 - Loan Amount by Income Bracket and Employment Type
 
-**Dashboard Screenshot**
 
-<!-- Add your third dashboard screenshot here -->
 
 ![Financial Risk Metrics](financial-risk-metrics.png)
 
