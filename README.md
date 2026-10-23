@@ -326,19 +326,6 @@ SUMX(
 - Default rates and year-over-year changes vary across the years shown.
 - Bachelor's degree holders have the highest loan count among the education categories displayed.
 
-*These observations are based on the supplied dashboard PDF. Values may vary with report filters.*
-
-## Tools Used
-
-- Power BI Desktop
-- DAX (Data Analysis Expressions)
-- Microsoft Excel
-
-## Project Files
-
-- `Loan_Default_Analysis.pdf` – Dashboard report reference
-- `DAX+Formulae.xlsx` – DAX formulas used in the dashboard
-- `README.md` – Project documentation
 
 ## Notes
 
