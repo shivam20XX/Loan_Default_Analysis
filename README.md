@@ -1,5 +1,3 @@
-# Loan Default Analysis Dashboard
-
 ## Problem Statement
 
 This dashboard helps analyze loan amounts and default risk across different borrower categories. It provides insights into loan purpose, employment type, age group, credit score, income bracket, marital status, education, and yearly trends.
